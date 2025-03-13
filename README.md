@@ -17,3 +17,8 @@ Will be conducting projects related to open-source.
 git clone https://github.com/username/repo.git
 cd repo
 npm install
+
+### Random Code
+
+const example = require('example-module');
+example.doSomething();
