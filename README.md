@@ -18,7 +18,6 @@ git clone https://github.com/username/repo.git
 cd repo
 npm install
 
-### Random Code
-
+### random code
 const example = require('example-module');
 example.doSomething();
